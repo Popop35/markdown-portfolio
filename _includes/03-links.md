@@ -1,1 +1,1 @@
-[Teh Website] (https://www.google.com/?gws_rd=ssl)
+[Teh Link](http://github.com)
